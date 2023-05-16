@@ -143,7 +143,19 @@ body {
   }
   
 
-  @media  (max-width: 1000px) {
+  @media  (max-width: 565px) {
+
+    input {
+        width: 75%;
+        padding: 10px;
+    }
+   .addBtn {
+    width: 20%;
+    padding: 10px;
+   }
+  }
+
+  @media  (max-width: 450px) {
 
     input {
         width: 11rem;
