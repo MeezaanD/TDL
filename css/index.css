@@ -146,7 +146,8 @@ body {
   @media  (max-width: 1000px) {
 
     input {
-        width: 13rem;
+        width: 11rem;
+        padding: 10px;
     }
    .addBtn {
     width: 5rem;
